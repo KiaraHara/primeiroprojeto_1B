@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 body{
     background-color:darkgrey;
+}
+h1{
+    color:#465C88;
+    font: size 80px;
+    text-align: center;
+    font-family: Merriweather;
+}
+p{
+    color:#113F67;
+    font: size 60px;
+    text-align: center;
+}
+img{
+    width: 30%;
+    margin-left: 650px;
 }
